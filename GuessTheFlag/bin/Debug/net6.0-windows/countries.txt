@@ -1,0 +1,9 @@
+ua:Ukraina
+de:Niemcy
+fr:Francja
+it:Włochy
+pl:Polska
+sj:Norwegia
+mc:Monako
+cz:Czechy
+jp:Japonia
